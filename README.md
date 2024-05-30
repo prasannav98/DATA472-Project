@@ -1,8 +1,8 @@
 # How to use the project:
 The entire project is automated and runs once every 3 months powered by the crontab. To access the data follow the GET links
-[data](http://13.210.241.172:5000/pvv13/national-benefits)
+- [data](http://13.210.241.172:5000/pvv13/national-benefits)
 
-[metadata](http://13.210.241.172:5000/pvv13/national-benefits-meta)
+- [metadata](http://13.210.241.172:5000/pvv13/national-benefits-meta)
 
 # What does each file in the repo do:
 
