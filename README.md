@@ -1,10 +1,8 @@
 # How to use the project:
-The entire project is automated and runs once every 3 months. To access the data follow the GET links
+The entire project is automated and runs once every 3 months powered by the crontab. To access the data follow the GET links
 [data](http://13.210.241.172:5000/pvv13/national-benefits)
 
 [metadata](http://13.210.241.172:5000/pvv13/national-benefits-meta)
-
-# How to replicate the project:
 
 # What does each file in the repo do:
 
@@ -32,4 +30,4 @@ Finally, it merges the final CSV files into a single master file.
 It deletes unnecessary intermediate files for a clean workspace.
 
 ## meta.json
-It has all the metadata of the extracted data.
+It has all the metadata of the extracted data. 
