@@ -1,0 +1,27 @@
+{
+    "Name of the dataset" : {
+        "Value" : "National Benefits Table"
+    },
+    "Url of the dataset" : {
+        "Value" : "https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html"
+    },
+    "Description" : {
+        "Value" : "This dataset gives the information regarding the count of the national benefits received by various sets of people throughout NZ"
+    },
+    "Version" : {
+        "Value" : 1.0
+    },
+
+    "Dimensions": {
+        
+        "Date": "Date of the particular recorded quarter yyyy-mm-dd",
+
+        "Type": "Type of the classification of the count of people eg. Gender, Ethnicity and so on",
+
+        "SubType" : "SubType of the classification of the count of people eg. Male, Female, European etc.",
+
+        "Benefit Type" : "Type of the Benefit that is awarded by the government",
+
+        "Observations" : "Count of the people that receive the benefit who comes under the specified type, subtype and benefit type"
+    }
+}
